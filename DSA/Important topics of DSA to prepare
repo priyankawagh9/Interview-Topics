@@ -1,0 +1,56 @@
+Reference: https://blog.algomaster.io/p/20-coding-interviews-tips
+High-Priority Topics & Must-Know Problem Types:
+
+1. Arrays and Strings
+Sorting & Searching – Binary search, quicksort, mergesort
+Two Pointers Technique – Removing duplicates, merging sorted arrays
+Sliding Window – Longest substring without repeating characters, maximum sum subarray
+Prefix Sum – Range sum queries, subarray sum problems
+Monotonic Stack – Next greater/smaller elements
+
+2. Linked Lists
+Reversal – Reverse a linked list, k-group reversal
+Cycle Detection – Floyd’s cycle detection algorithm
+Partitioning & Merging – Merge two sorted linked lists, reorder list
+
+3. Trees & Binary Search Trees (BSTs)
+Tree Traversals – Preorder, inorder, postorder (recursive & iterative)
+Lowest Common Ancestor (LCA) – Finding LCA in a BST or binary tree
+Depth vs. Breadth Analysis – BFS vs. DFS traversal strategies
+Binary Search Trees (BSTs) – Validate BST, insert/delete nodes
+
+4. Graphs
+Graph Traversal – Depth-first search (DFS), breadth-first search (BFS)
+Topological Sorting – Course scheduling problem
+Shortest Path Algorithms – Dijkstra’s algorithm, Bellman-Ford
+Connected Components – Union-Find, cycle detection
+
+5. Backtracking
+Classic Recursion Problems – Generating permutations, combinations
+Sudoku Solver – Constraint-based search
+N-Queens Problem – Placing queens without conflicts
+
+6. Heaps & Priority Queues
+Top-K Elements Problems – Kth largest/smallest element
+Merging Sorted Lists – Merge k sorted linked lists
+Median in a Stream – Using a min-max heap approach
+
+7. Tries (Prefix Trees)
+Word Search & Autocomplete – Implementing a trie
+Prefix Matching – Longest common prefix
+Dictionary-Based Problems – Spell checker, word break problem
+
+8. Dynamic Programming (DP)
+Knapsack & Subset Problems – 0/1 Knapsack, partition equal subset sum
+Longest Common Subsequences – LCS, LIS, edit distance
+Matrix-Based DP – Unique paths, minimum path sum
+
+9. Bit Manipulation
+Finding Odd Occurrences – XOR technique
+Power of Two & Bit Counting – Checking if a number is a power of two
+Bitmasking Techniques – Subset generation, dynamic programming optimizations
+
+10. Math & Number Theory
+Prime Numbers & GCD – Sieve of Eratosthenes
+Modulo Arithmetic – Handling large numbers efficiently
+Combinations & Permutations – Factorial-based counting
