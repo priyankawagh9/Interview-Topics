@@ -1,4 +1,4 @@
-1. Have you encounter Class not found exception? yes, then why does it happen?
+1. Have you encountered Class not found exception? yes, then why does it happen?
 2. Implement strategic design pattern in stream api/lambda
 3. How to combine response of three apis into one response? (expected completable future)
 4. Have you tackled deadlock & race condition? how did you do it?
