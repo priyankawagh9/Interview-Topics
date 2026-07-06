@@ -1,0 +1,15 @@
+1. Have you encounter Class not found exception? yes, then why does it happen?
+2. Implement strategic design pattern in stream api/lambda
+3. How to combine response of three apis into one response? (expected completable future)
+4. Have you tackled deadlock & race condition? how did you do it?
+5. whats difference between error and exception?
+6. How can I track request in microservices architecture?
+7. what's difference between EC2 and ECS?
+8. What not to do when creating application container?
+9. have you created Docker file?
+10. What is usually content of docker file?
+11. Couple SQL queries were asked based on join.
+12. How do you handle RRTs?
+13. How will you deal if old code is there and no documentation available for it?
+14. Have you ever resolved vulnerabilities?
+15. How would you resolve vulnerabitlies in your own code?
